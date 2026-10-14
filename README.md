@@ -1,4 +1,4 @@
-### Retail Sales Exploratory Data Analysis (EDA)
+## Retail Sales Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
 
