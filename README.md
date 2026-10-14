@@ -28,8 +28,8 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a retail s
 Retail-Sales-EDA/
 │
 ├── Dataset/
-       └──Retail_Sales_EDA.ipynb
-├── retail_sales_dataset.csv
+       └──retail_sales_dataset.csv
+├── Retail_Sales.ipynb
 └── README.md
 ```
 
