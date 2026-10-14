@@ -58,7 +58,7 @@ Retail-Sales-EDA/
 
 ### 5. Product Analysis
 
-* Identified the top 10 best-selling products.
+* Identified the best-selling products.
 * Analyzed revenue by product category using bar charts.
 
 ### 6. Correlation Analysis
