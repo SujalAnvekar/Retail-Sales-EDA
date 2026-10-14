@@ -66,9 +66,9 @@ Retail-Sales-EDA/
 * Created a correlation matrix for numerical variables.
 * Visualized relationships between numerical variables using a heatmap.
 
-### 7. Additional Visualization
+### 7. Age Group Visualization
 
-* Created a pie chart to analyze the percentage contribution of each gender to total sales revenue.
+* Created a pie chart to analyze the percentage contribution of each age group to total sales revenue.
 
 ## 📈 Key Insights
 
